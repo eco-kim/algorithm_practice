@@ -1,1 +1,1 @@
-# data_analysis
+# 코딩테스트 연습
